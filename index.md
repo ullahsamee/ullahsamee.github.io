@@ -25,7 +25,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
-Hi! I'm Samee Ullah, a Bioinformatician at [National Institute of Health Islamabad Pakistan](https://www.nih.org.pk/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work in the Inclusive Technology Lab with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}.  
+Hi! I'm Samee Ullah, a Bioinformatician at [National Institute of Health Islamabad Pakistan](https://www.nih.org.pk/){:target="_blank"}. I work in the [Virology department PHLD](https://www.nih.org.pk/public-health-laboratories-division-phld/){:target="_blank"} Lab undersipervision of [Prof. Dr. Maj Gen Aamir Ikram](https://www.linkedin.com/in/aamer-ikram-83160622/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAS3lSUBaeMmffzV18GaReSRO2LvUe_wPE0){:target="_blank"} and [Dr. Afreenish Amir](https://www.linkedin.com/in/dr-afreenish-amir-0b902232/){:target="_blank"}.  
 
 Previously, I completed my Master of Philosophy (MPhil) in Bio-informatics at [National Center for Bioinformatics(NCB)](https://ncb.qau.edu.pk/){:target="_blank"}, and obtained my Master (M.Sc.) in [Microbiology](http://mic.qau.edu.pk/){:target="_blank"} from the [Quaid-i-Azam University (QAU)](https://qau.edu.pk/){:target="_blank"} Islamabad Pakistan.  
 
