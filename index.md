@@ -31,7 +31,7 @@ Previously, I completed my Master of Philosophy (MPhil) in Bio-informatics at [N
 
 My research interests include computer simulations of biological macromolecules to study the **relationship between dynamics and function**. In my research, I study **protein-protein interactions, protein-ligand interactions, membrane-protein dynamics** using molecular dynamics simulations and other computational methods such as **Molecular Docking, Virtual Screening, and Free Energy Perturbation methods**. Moreover I also study, the dynamics and flexibility of proteins, membranes, and nucleicacids to study biological function and dysfunction at the atomic level and to **design small molecule inhibtors** for therapeutic purpose.  
 
-<span class="icon-award" aria-hidden="true"></span> I love Soccer :soccer: and photography :camera: Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
+I love Soccer <span class=":soccer:" aria-hidden="true"></span> and photography <span class="::camera:" aria-hidden="true"></span> Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
 
 <!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
 
