@@ -110,7 +110,7 @@ National Institute of Health
 Park Road, Chak Shahzad 
 Islamabad, Pakistan
 
-<p class="home-element"><strong>s<!-- ghuiknh -->  [dot] <!-- hdfuhfbrhd -->ullah<!-- hfugu --> [a<!-- jngingbhir -->t] nih [dot] org</strong></p>.pk
+<p class="home-element"><strong>s<!-- ghuiknh -->  [dot] <!-- hdfuhfbrhd -->ullah<!-- hfugu --> [a<!-- jngingbhir -->t] nih [dot] org.pk</strong></p>
 <style type="text/css">
   .body-social > ul {
     display: inline-block;
