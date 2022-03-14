@@ -71,7 +71,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 <h3 class="h2">Published research articles</h3>
 
-* Domenica Musumeci, **Samee Ullah**, Aamer Ikram, Giovanni N Roviello. [Novel insights on nucleopeptide binding: A spectroscopic and in silico investigation on the interaction of a thymine-bearing tetrapeptide with a homoadenine DNA](https://www.sciencedirect.com/science/article/pii/S0167732221027008){:target="_blank"}.
+* Domenica Musumeci, **Samee Ullah**, Aamer Ikram, Giovanni N Roviello. [Novel insights on nucleopeptide binding: A spectroscopic and in silico investigation on the interaction of a thymine-bearing tetrapeptide with a homoadenine DNA](https://www.sciencedirect.com/science/article/pii/S0167732221027008){:target="_blank"}. **Impact Factor(IF) = 6.1**
   
 
 * Lin Li, **Abir Saha**, Seeta Ram Pandey, Yaobin Chen, Stanley Chien, and Rini Sherony. Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. In *2019 IEEE Intelligent Transportation Systems Conference (ITSC)*, Auckland, New Zealand, October 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8917344){:target="_blank"}]   
