@@ -47,7 +47,7 @@ I love Soccer:soccer: and photography:camera: Through my camera and lens, I capt
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
 
-<h3 class="h2">Current Projects</h3>
+<h3 class="h2">Current Research Projects</h3>
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
 *Advisors: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"} and [Darren Gergle](https://dgergle.soc.northwestern.edu/){:target="_blank"}*
 
