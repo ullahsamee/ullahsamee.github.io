@@ -71,22 +71,15 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 <h3 class="h2">Published research articles</h3>
 
-* Domenica Musumeci, **Samee Ullah**, Aamer Ikram, Giovanni N Roviello. [Novel insights on nucleopeptide binding: A spectroscopic and in silico investigation on the interaction of a thymine-bearing tetrapeptide with a homoadenine DNA](https://www.sciencedirect.com/science/article/pii/S0167732221027008){:target="_blank"}. **Impact Factor = 6.1**
+* Domenica Musumeci, **Samee Ullah**, Aamer Ikram, Giovanni N Roviello. [Novel insights on nucleopeptide binding: A spectroscopic and in silico investigation on the interaction of a thymine-bearing tetrapeptide with a homoadenine DNA].(https://www.sciencedirect.com/science/article/pii/S0167732221027008){:target="_blank"}. **Impact Factor = 6.1**
   
 
-* Lin Li, **Abir Saha**, Seeta Ram Pandey, Yaobin Chen, Stanley Chien, and Rini Sherony. Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. In *2019 IEEE Intelligent Transportation Systems Conference (ITSC)*, Auckland, New Zealand, October 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8917344){:target="_blank"}]   
-  
+*   
 
-* Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. [From Research to Practice: Informing the Design of Autism Support Smart Technology](https://abirsh.github.io/publications/Autism_CHI18.pdf){:target="_blank"}. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3173574.3173676){:target="_blank"}]   
   
+<h3 class="h2">Letter to the Editors</h3>
 
-* **Abir Saha** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[IEEE Xplore](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]   
-  
-  
-<h3 class="h2">Journal Article</h3>
-
-<!-- * Tahsin Reasat, **Abir Saha**, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In *International Journal of Communication Systems (IJCS)*, March 2017. [[Wiley](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}]   -->  
-<ul><li><p>Tahsin Reasat, <strong>Abir Saha</strong>, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In <em>International Journal of Communication Systems (IJCS)</em>, March 2017. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract" target="_blank">Wiley</a>]</p></li></ul>
+* Massab Umair, Aamer Ikram, Muhammad Salman, Muhammad Masroor Alam, Nazish Badar, Zaira Rehman, Sana Tamim, Adnan Khurshid, Abdul Ahad, Hamza Ahmad **Samee Ullah**. [Importation of SARS-CoV-2 Variant B.1.1.7 in Pakistan].(https://www.sciencedirect.com/science/article/pii/S0167732221027008){:target="_blank"}. **Impact Factor = 2.3**
 
 
 <h3 class="h2">Short Paper</h3>
