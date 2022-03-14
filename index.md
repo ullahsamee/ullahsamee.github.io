@@ -47,7 +47,7 @@ I love Soccer and photography. Through my camera lens, I capture the juxtapositi
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
 
-<h3 class="h2">Current Research Projects</h3>
+<h3 class="h2">Current Projects</h3>
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
 *Advisors: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"} and [Darren Gergle](https://dgergle.soc.northwestern.edu/){:target="_blank"}*
 
@@ -69,10 +69,9 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="publications">Publications </h2>
 
-<h3 class="h2">Peer-reviewed Conference Papers</h3>
+<h3 class="h2">Published research articles</h3>
 
-* **Abir Saha** and Anne Marie Piper. [Understanding Audio Production Practices of People with Vision Impairments](https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}. In *Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Virtual Event, Greece, October 2020.   
-<span class="icon-award" aria-hidden="true"></span> **Best Paper Nominee**   
+* Domenica Musumeci, **Samee Ullah**, Aamer Ikram, Giovanni N Roviello. [Novel insights on nucleopeptide binding: A spectroscopic and in silico investigation on the interaction of a thymine-bearing tetrapeptide with a homoadenine DNA](https://www.sciencedirect.com/science/article/pii/S0167732221027008){:target="_blank"}.
   
 
 * Lin Li, **Abir Saha**, Seeta Ram Pandey, Yaobin Chen, Stanley Chien, and Rini Sherony. Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. In *2019 IEEE Intelligent Transportation Systems Conference (ITSC)*, Auckland, New Zealand, October 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8917344){:target="_blank"}]   
