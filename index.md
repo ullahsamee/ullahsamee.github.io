@@ -77,7 +77,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 <h3 class="h2">Letters to the Editor</h3>
 
 
-* Massab Umair, Aamer Ikram, Muhammad Salman, Muhammad Masroor Alam, Nazish Badar, Zaira Rehman, Sana Tamim, Adnan Khurshid, Abdul Ahad, Hamza Ahmad, **Samee Ullah** [Importation of SARS-CoV-2 Variant B.1.1.7 in Pakistan] (https://onlinelibrary.wiley.com/doi/10.1002/jmv.26869){:target="_blank"}. **Impact Factor = 2.3**
+* Massab Umair, Aamer Ikram, Muhammad Salman, Muhammad Masroor Alam, Nazish Badar, Zaira Rehman, Sana Tamim, Adnan Khurshid, Abdul Ahad, Hamza Ahmad, **Samee Ullah** [Importation of SARS-CoV-2 Variant B.1.1.7 in Pakistan](https://onlinelibrary.wiley.com/doi/10.1002/jmv.26869){:target="_blank"}. **Impact Factor = 2.3**
 
 
 <h3 class="h2">Short Paper</h3>
