@@ -33,7 +33,7 @@ My research interest is in computer simulations of biological macromolecules to 
 
 I love Soccer and photography. Through my camera lens, I capture the juxtaposition of nature, animals and humans as I travel through places and time. 
 
-<!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
+<!-- You can find me on [Instagram](http://instagram.com/memento.m_o_r_i){:target="_blank"}. -->
 
 <div class="body-social sidebar-social">
   <ul>
