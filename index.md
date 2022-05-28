@@ -99,7 +99,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 * How to peer review a review article by **Elsevier**, May 2022. [[pdf](https://www.researchgate.net/publication/360902354_How_to_peer_review_a_review_article_by_Elsevier){:target="_blank"}]
 
 
-* , May 2022. [[pdf](){:target="_blank"}] 
+* Good Citation Behavior by **CLARIVATE Web of Science** Academy, May 2022. [[pdf](https://www.researchgate.net/publication/360902150_Good_Citation_Behavior_by_CLARIVATE_Web_of_Science_Academy_Certificate_of_Course_Completion){:target="_blank"}] 
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me"> Contact Me </h2>
