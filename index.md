@@ -87,16 +87,19 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
   
 <h3 class="h2">Awards/Certifications</h3>
 
-* Focus on Peer Review by **SPRINGER NATURE** (Certificate of Course Completion), May 2022. [[pdf](https://www.researchgate.net/publication/360902160_Focus_on_Peer_Review_by_SPRINGER_NATURE_Certificate_of_Course_Completion){:target="_blank"}]   
+* Focus on Peer Review by **SPRINGER NATURE**, May 2022. [[pdf](https://www.researchgate.net/publication/360902160_Focus_on_Peer_Review_by_SPRINGER_NATURE_Certificate_of_Course_Completion){:target="_blank"}]   
   
   
-* An Introduction to Peer Review by **CLARIVATE Web of Science** Academy (Certificate of Course Completion), May 2022. [[pdf](https://www.researchgate.net/publication/360902270_An_Introduction_to_Peer_Review_by_CLARIVATE_Web_of_Science_Academy_Certificate_of_Course_Completion){:target="_blank"}]
+* An Introduction to Peer Review by **CLARIVATE Web of Science** Academy, May 2022. [[pdf](https://www.researchgate.net/publication/360902270_An_Introduction_to_Peer_Review_by_CLARIVATE_Web_of_Science_Academy_Certificate_of_Course_Completion){:target="_blank"}]
 
 
 * Introduction to the Certified Peer Reviewer Course by **Elsevier**, May 2022. [[pdf](https://www.researchgate.net/publication/360902358_Certified_Peer_Reviewer_Course_by_Elsevier){:target="_blank"}] 
   
 
-* How to peer review a review article by Elsevier, May 2022. [[pdf](https://www.researchgate.net/publication/360902354_How_to_peer_review_a_review_article_by_Elsevier){:target="_blank"}] 
+* How to peer review a review article by **Elsevier**, May 2022. [[pdf](https://www.researchgate.net/publication/360902354_How_to_peer_review_a_review_article_by_Elsevier){:target="_blank"}]
+
+
+* , May 2022. [[pdf](){:target="_blank"}] 
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me"> Contact Me </h2>
