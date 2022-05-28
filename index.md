@@ -73,16 +73,14 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 * Domenica Musumeci, **Samee Ullah**, Aamer Ikram, Giovanni N Roviello. [Novel insights on nucleopeptide binding A spectroscopic and in silico investigation on the interaction of a thymine-bearing tetrapeptide with a homoadenine DNA](https://www.sciencedirect.com/science/article/pii/S0167732221027008){:target="_blank"}. **Journal of Molecular Liquids- Impact Factor = 6.1**
 
+* Fadaka Adewale, Oluwaseun, Odunayo Anthonia Taiwo, Oluwatosin Adebisi Dosumu, Oluwafemi Paul Owolabi, Adebola Busola Ojo, Nicole Remaliah Samantha Sibuyi, **Samee Ullah**, Ashwil Klein, Abram Madimabe Madiehe, Mervin Meyer, Oluwafemi Adeleke Ojo. [Computational Prediction of Potential Drug-like Compounds from Cannabis sativa Leaf Extracts Targeted towards Alzheimer Therapy
+](https://doi.org/10.1016/j.molliq.2022.119393){:target="_blank"}. **Journal of Molecular Liquids- Impact Factor = 6.1**
+
   
-<h3 class="h2">Letters to the Editor</h3>
+<h3 class="h2">Short/Data paper</h3>
 
 
 * Massab Umair, Aamer Ikram, Muhammad Salman, Muhammad Masroor Alam, Nazish Badar, Zaira Rehman, Sana Tamim, Adnan Khurshid, Abdul Ahad, Hamza Ahmad, **Samee Ullah** [Importation of SARS-CoV-2 Variant B.1.1.7 in Pakistan](https://onlinelibrary.wiley.com/doi/10.1002/jmv.26869){:target="_blank"}. **Journal of Medical Virology- Impact Factor = 2.3**
-
-
-<h3 class="h2">Short Paper</h3>
-
-<ul><li><p>Thomas B. McHugh, <strong>Abir Saha</strong>, David Bar-El, Marcelo Worsley, and Anne Marie Piper. 2020. <a href="https://abirsh.github.io/publications/DHOH-audio-CHI2021-preprint.pdf" target="_blank">Towards Inclusive Streaming: Building Multimodal Music Experiences for the Deaf and Hard of Hearing</a>. In <em>CHI ’21: ACM Conference on Human Factors in Computing Systems</em>, May 08–13, 2021, Online Virtual Conference.</p></li></ul>
   
   
 <h3 class="h2">Awards/Certifications</h3>
