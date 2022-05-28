@@ -25,13 +25,13 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
-Hi! I'm Samee Ullah, a Bioinformatician at [National Institute of Health Islamabad Pakistan](https://www.nih.org.pk/){:target="_blank"}. I work in the [Virology department PHLD](https://www.nih.org.pk/public-health-laboratories-division-phld/){:target="_blank"} Lab under [Prof. Dr. Maj Gen Aamir Ikram](https://www.linkedin.com/in/aamer-ikram-83160622/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAS3lSUBaeMmffzV18GaReSRO2LvUe_wPE0){:target="_blank"} and also with [Dr. Afreenish Amir](https://www.linkedin.com/in/dr-afreenish-amir-0b902232/){:target="_blank"}.   
+Hi! I'm **Samee Ullah, a Bioinformatician** at [National Institute of Health Islamabad Pakistan](https://www.nih.org.pk/){:target="_blank"}. I work in the [Virology department PHLD](https://www.nih.org.pk/public-health-laboratories-division-phld/){:target="_blank"} Lab under [Prof. Dr. Maj Gen Aamir Ikram](https://www.linkedin.com/in/aamer-ikram-83160622/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAS3lSUBaeMmffzV18GaReSRO2LvUe_wPE0){:target="_blank"} and also with [Dr. Afreenish Amir](https://www.linkedin.com/in/dr-afreenish-amir-0b902232/){:target="_blank"}.   
 
 Previously, I completed my Master of Philosophy (MPhil) in Bio-informatics at [National Center for Bioinformatics(NCB)](https://ncb.qau.edu.pk/){:target="_blank"}, and obtained my Master (M.Sc.) in [Microbiology](http://mic.qau.edu.pk/){:target="_blank"} from the [Quaid-i-Azam University (QAU)](https://qau.edu.pk/){:target="_blank"} Islamabad Pakistan.  
 
 My research interest is in computer simulations of biological macromolecules to study the **relationship between structure dynamics and function**. In my research, I study the **protein-protein and protein-ligand interactions** using the **Molecular dynamics simulations(MDS)** and other computational methods such as **Molecular Docking, Virtual Screening, and Free Energy Perturbation(FEP)**. Moreover I study, these biological structures at the atomic level in order to search and **design small molecule inhibtors** for therapeutic purposes.  
 
-I love Soccer and photography. I capture the juxtaposition of nature, animals and humans as I travel through places and time. Therefore don't foget to follow me on IG. 
+I love Soccer and photography. I capture the juxtaposition of nature, animals and humans as I travel through places and time. Therefore don't forget to follow me on IG. 
 
 <!-- You can find me on [Instagram](http://instagram.com/memento.m_o_r_i){:target="_blank"}. -->
 
@@ -103,6 +103,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 
 * Good Citation Behavior by **CLARIVATE Web of Science** Academy, May 2022. [[pdf](https://www.researchgate.net/publication/360902150_Good_Citation_Behavior_by_CLARIVATE_Web_of_Science_Academy_Certificate_of_Course_Completion){:target="_blank"}] 
+
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me"> Contact Me </h2>
