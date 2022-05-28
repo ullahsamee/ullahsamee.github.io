@@ -82,10 +82,10 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 * Massab Umair, Aamer Ikram, Muhammad Salman, Muhammad Masroor Alam, Nazish Badar, Zaira Rehman, Sana Tamim, Adnan Khurshid, Abdul Ahad, Hamza Ahmad, **Samee Ullah** [Importation of SARS-CoV-2 Variant B.1.1.7 in Pakistan](https://onlinelibrary.wiley.com/doi/10.1002/jmv.26869){:target="_blank"}. **Journal of Medical Virology- Impact Factor = 2.3**
 
-* SARS‐CoV‐2 B.1.1.7 Variant WGS sequences from Pakistan accession number:EPI_ISL_766055 (https://www.gisaid.org/
+* SARS‐CoV‐2 B.1.1.7 Variant WGS sequences from Pakistan accession number:EPI_ISL_766055 [[GISAID](https://www.gisaid.org){:target="_blank"}]
 ).
 
-* Escherichia coli strain O25b-ST131 CTX-M family beta-lactamase (blaCTX-M) gene, partial cds. [[sequences](https://www.ncbi.nlm.nih.gov/nuccore/MK770327.1){:target="_blank"}]
+* Escherichia coli strain O25b-ST131 CTX-M family beta-lactamase (blaCTX-M) gene, partial cds. [[NCBI](https://www.ncbi.nlm.nih.gov/nuccore/MK770327.1){:target="_blank"}]
   
   
 <h3 class="h2">Awards/Certifications</h3>
