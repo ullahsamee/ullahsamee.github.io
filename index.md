@@ -31,7 +31,7 @@ Previously, I completed my Master of Philosophy (MPhil) in Bio-informatics at [N
 
 My research interest is in computer simulations of biological macromolecules to study the **relationship between structure dynamics and function**. In my research, I study the **protein-protein and protein-ligand interactions** using the **Molecular dynamics simulations(MDS)** and other computational methods such as **Molecular Docking, Virtual Screening, and Free Energy Perturbation(FEP)**. Moreover I study, these biological structures at the atomic level in order to search and **design small molecule inhibtors** for therapeutic purposes.  
 
-I love Soccer and photography. Through my camera lens, I capture the juxtaposition of nature, animals and humans as I travel through places and time. 
+I love Soccer and photography. I capture the juxtaposition of nature, animals and humans as I travel through places and time. Therefore don't foget to follow me on IG. 
 
 <!-- You can find me on [Instagram](http://instagram.com/memento.m_o_r_i){:target="_blank"}. -->
 
