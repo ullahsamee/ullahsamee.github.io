@@ -85,6 +85,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 * SARS‐CoV‐2 B.1.1.7 Variant WGS sequences from Pakistan accession number:EPI_ISL_766055 (https://www.gisaid.org/
 ).
 
+* Escherichia coli strain O25b-ST131 CTX-M family beta-lactamase (blaCTX-M) gene, partial cds. [[sequences](https://www.ncbi.nlm.nih.gov/nuccore/MK770327.1){:target="_blank"}]
   
   
 <h3 class="h2">Awards/Certifications</h3>
