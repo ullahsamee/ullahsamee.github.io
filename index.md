@@ -71,10 +71,10 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 <h3 class="h2">Published research articles</h3>
 
-* Domenica Musumeci, **Samee Ullah**, Aamer Ikram, Giovanni N Roviello. [Novel insights on nucleopeptide binding A spectroscopic and in silico investigation on the interaction of a thymine-bearing tetrapeptide with a homoadenine DNA](https://www.sciencedirect.com/science/article/pii/S0167732221027008){:target="_blank"}. **Journal of Molecular Liquids- Impact Factor = 6.1**
+* Domenica Musumeci, **Samee Ullah**, Aamer Ikram, Giovanni N Roviello. [Novel insights on nucleopeptide binding A spectroscopic and in silico investigation on the interaction of a thymine-bearing tetrapeptide with a homoadenine DNA](https://www.sciencedirect.com/science/article/pii/S0167732221027008){:target="_blank"}. **Journal of Molecular Liquids- Impact Factor = 6.6**
 
 * Fadaka Adewale Oluwaseun, Odunayo Anthonia Taiwo, Oluwatosin Adebisi Dosumu, Oluwafemi Paul Owolabi, Adebola Busola Ojo, **Samee Ullah**, Nicole Remaliah Samantha Sibuyi, Ashwil Klein, Abram Madimabe Madiehe, Mervin Meyer, Oluwafemi Adeleke Ojo. [Computational Prediction of Potential Drug-like Compounds from Cannabis sativa Leaf Extracts Targeted towards Alzheimer Therapy
-](https://doi.org/10.1016/j.molliq.2022.119393){:target="_blank"}. **Journal of Molecular Liquids- Impact Factor = 6.1**
+](https://doi.org/10.1016/j.molliq.2022.119393){:target="_blank"}. **Journal of Molecular Liquids- Impact Factor = 6.6**
 
   
 <h3 class="h2">Short/Data paper</h3>
